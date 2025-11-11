@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tzipi Levi
+# 👋 Hi, I'm Tzipora Levi
 
 **Full Stack Developer** with hands-on experience in building and maintaining **Web Applications**.  
 Proficient in **React**, **Angular**, **.NET Core**, and **Node.js**.  
@@ -94,7 +94,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
+        <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="TypeScript" width="48" height="48" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -105,6 +105,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
         <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET Core" width="48" height="48" />
       <br>.NET Core
     </td>
+     <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="JAVA" width="48" height="48" />
+      <br>Java
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
       <br>Node.js
@@ -114,7 +118,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQL Server" width="65" height="65" />
+        <img src="https://camo.githubusercontent.com/99b905accbefbf6c586bf2ab08ebf05fd3e04b4ecbb821e1662f9177b5af460b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67" alt="SQL Server" width="65" height="65" />
       <br>SQL Server
     </td>
   </tr>
@@ -126,6 +130,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/d35a1629940de977c889a8710227ca41e3068e9b4318f59994c9fa92fa37fd0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="icon" width="65" height="65" />
+      <br>C
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
@@ -140,7 +148,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+        <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -148,7 +156,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="AWS" width="48" height="48" />
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -158,8 +166,8 @@ Aspiring to continue developing in a challenging environment and contribute to i
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-      <br>GitHub
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+      <br>Github
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
@@ -193,14 +201,36 @@ Aspiring to continue developing in a challenging environment and contribute to i
         <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48" />
       <br>Azure
     </td>
+    <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/96cc4a41c567b4afac90f4e4421835cf70c6cfb0c0d205ed8890bb90d11e9a5b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676370" alt="Azure" width="48" height="48" />
+      <br>Gcp
+    </td>
   </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="icon" width="48" height="48" />
+      <br>RESTful API
+    </td>
+    <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="Figma" width="48" height="48" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="VS Code" width="48" height="48" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="Visual Studio" width="48" height="48" />
+      <br>Sass
+    </td>
+    </tr>
 </table>
 
 </div>
 
 
 ## 📊 GitHub Stats
-![Tzipi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzipi10&show_icons=true&theme=radical)
+![Tzipora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzipi10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzipi10&layout=compact&theme=radical)
 
 ---
