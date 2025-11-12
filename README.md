@@ -77,7 +77,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
 
 <div align="center">
 
-## 🧠 My Tech Stack
+## 🧠 Technologies & Tools
 
 <table align="center">
   <tr>
