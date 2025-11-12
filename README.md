@@ -152,7 +152,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/qkrdmstlr3/techstack-generator/b0ea9dfeca9d801d638c6137a0808901a0b93bd6/static/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
@@ -216,13 +216,40 @@ Aspiring to continue developing in a challenging environment and contribute to i
       <br>Express
     </td>
     <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="VS Code" width="48" height="48" />
+        <img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="VS Code" width="96" />
       <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="Visual Studio" width="48" height="48" />
       <br>Sass
     </td>
+     <td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="AI" />
+  <br>AI
+</td>
+<!-- <td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/robotframework/4B8BBE" width="50" height="50" alt="AI Agent" />
+  <br>AI Agent
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.simpleicons.org/python/FFD43B" width="50" height="50" alt="LLM" />
+  <br>LLM
+</td> -->
+    <td align="center" width="96">
+      <img src="https://camo.githubusercontent.com/80ed548a51d016b557772a0452f8d01d7274d15a32f1c08b92b895ee565beede/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6174657269616c7569" width="50" height="50" alt="AI Agent" />
+      <br>MaterialUI
+    </td>
+   <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA" />
+  <br>IntelliJ IDEA
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" />
+  <br>PyCharm
+</td>
+
+
+
     </tr>
 </table>
 
