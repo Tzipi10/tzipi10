@@ -247,6 +247,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" alt="PyCharm" />
   <br>PyCharm
 </td>
+<td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/50474191440369bf1cab8a54ca126117809fca2a08c3359b40d7ec6a7956543e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" width="50" height="50" alt="PyCharm" />
+  <br>Arduino
+</td>
 
 
 
