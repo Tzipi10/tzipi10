@@ -283,10 +283,19 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <img src="https://camo.githubusercontent.com/50474191440369bf1cab8a54ca126117809fca2a08c3359b40d7ec6a7956543e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" alt="Arduino" width="50" height="50" />
     <br>Arduino
   </td>
-   <td align="center" width="96">
+ <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter Notebook" />
+  <br>Jupyter
+ </td>
+ <td align="center" width="96">
     <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="AI" />
-    <br>AI
-  </td>
+    <br>openAI
+ </td>
+ <td align="center" width="96">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50" alt="AI LLM" />
+  <br>LLM
+</td>
+
 </tr>
 </table>
 
