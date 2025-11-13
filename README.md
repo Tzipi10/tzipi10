@@ -11,13 +11,13 @@ Aspiring to continue developing in a challenging environment and contribute to i
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff)  
-![CSharp](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)  
-![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=fff)
+![CSharp](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
+![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=fff)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logoColor=fff)
 
 ---
