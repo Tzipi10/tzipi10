@@ -266,7 +266,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
 
 <!-- ========== EXTRA ========== -->
 <tr>
-  <td colspan="10" align="center"><b>🧩 Extra</b></td>
+  <td colspan="10" align="center"><b>⚡ Extra</b></td>
 </tr>
 <tr>
   <td align="center" width="96">
