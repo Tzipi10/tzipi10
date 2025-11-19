@@ -297,12 +297,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
 </td>
 </tr>
 </table>
-
 </div>
  <br>
  
 ---
-
 ## 📊 GitHub Stats
 ![Tzipora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tzipi10&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzipi10&layout=compact&theme=radical)
@@ -312,6 +310,5 @@ Aspiring to continue developing in a challenging environment and contribute to i
 ## **Contact Me**  
 <a href="mailto:tzipilevi1234@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
 &nbsp;  [TzipiLevi1234@gmail.com](mailto:tzipilevi1234@gmail.com)  
-
 
 ⭐ *Always eager to learn, collaborate, and build impactful products with clean, scalable code.*
