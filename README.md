@@ -7,7 +7,6 @@ Bringing creativity in problem-solving, fast learning ability, strong work ethic
 Aspiring to continue developing in a challenging environment and contribute to innovative technological solutions.  
 
 ---
-
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
