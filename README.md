@@ -292,10 +292,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
  <td align="center" width="96">
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50" alt="AI LLM" />
   <br>LLM
-</td>
-</tr>
-</table>
-</div>
+    </td>
+   </tr>
+  </table>
+ </div>
  <br>
 
 ---
