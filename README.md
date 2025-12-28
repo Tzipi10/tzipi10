@@ -296,7 +296,6 @@ Aspiring to continue developing in a challenging environment and contribute to i
    </tr>
   </table>
  </div>
- <br>
 
 ---
 ## 📊 GitHub Stats
