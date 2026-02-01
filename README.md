@@ -102,7 +102,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>Angular
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/dd2c84af43a6c56860d910c605d51d058a28213431a42e422dcb6a62ab53d14a/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="TypeScript" width="48" height="48" />
+    <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/ts-icon.svg" alt="TypeScript" width="48" height="48" />
     <br>TypeScript
   </td>
   <td align="center" width="96">
@@ -118,7 +118,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>CSS3
   </td>
   <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="Sass" width="48" height="48" />
+        <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/sass-icon.svg" alt="Sass" width="48" height="48" />
     <br>Sass
   </td>
   <td align="center" width="96">
@@ -157,7 +157,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>.NET Core
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="Java" width="48" height="48" />
+    <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/java-icon.svg" alt="Java" width="48" height="48" />
     <br>Java
   </td>
   <td align="center" width="96">
@@ -173,11 +173,11 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>MongoDB
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="RESTful API" width="48" height="48" />
+    <img src="https://camo.githubusercontent.com/ab09de79f0629e01d86942513abff902dc6948e1d6194b4d4dc3724d82e52831/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="RESTful API" width="48" height="48" />
     <br>REST API
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="Redux" width="65" height="65" />
+    <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/redux-icon.svg" alt="Redux" width="65" height="65" />
     <br>Redux
   </td>
 </tr>
@@ -188,7 +188,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
 </tr>
 <tr>
   <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/5d9a8b3aaadd99a6f9e997446bd9c553e131cc3e2fd2585ea0f38a452661521e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="Docker" width="48" height="48" />
+        <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/docker-icon.svg" alt="Docker" width="48" height="48" />
     <br>Docker
   </td>
   <td align="center" width="96">
@@ -196,7 +196,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>Kubernetes
   </td>
   <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" alt="AWS" width="48" height="48" />
+        <img src="https://github.com/qkrdmstlr3/techstack-generator/blob/master/static/aws-icon.svg" alt="AWS" width="48" height="48" />
     <br>AWS
   </td>
   <td align="center" width="96">
