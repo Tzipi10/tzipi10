@@ -278,7 +278,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>C
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/50474191440369bf1cab8a54ca126117809fca2a08c3359b40d7ec6a7956543e/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" alt="Arduino" width="50" height="50" />
+    <img src="https://camo.githubusercontent.com/b60e5b8325aeed2fcce0573d592e482c549543394659c22f3a08ebae9e3f1c64/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61726475696e6f2e706e67" alt="Arduino" width="50" height="50" />
     <br>Arduino
   </td>
  <td align="center" width="96">
