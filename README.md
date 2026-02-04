@@ -126,7 +126,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>Bootstrap
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/80ed548a51d016b557772a0452f8d01d7274d15a32f1c08b92b895ee565beede/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6174657269616c7569" width="50" height="50" alt="Material UI" />
+    <img src="https://camo.githubusercontent.com/daa1ba4a182f25163d9bda416b7ae075f743d34c882f0be6022da1ff9406d722/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6d75692e706e67" width="50" height="50" alt="Material UI" />
     <br>Material UI
   </td>
   <td align="center" width="96">
