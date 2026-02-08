@@ -145,7 +145,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>Node.js
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="Express" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="48" height="48" />
     <br>Express
   </td>
   <td align="center" width="96">
@@ -165,7 +165,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>Python
   </td>
   <td align="center" width="96">
-            <img src="https://camo.githubusercontent.com/99b905accbefbf6c586bf2ab08ebf05fd3e04b4ecbb821e1662f9177b5af460b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67" alt="SQL Server" width="65" height="65" />
+            <img src="https://camo.githubusercontent.com/2ff1136ac2dc4ff98e920882cb8fc3f648295c2b55b8d13c6018142267e50803/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2e737667" alt="SQL Server" width="65" height="65" />
     <br>SQL Server
   </td>
   <td align="center" width="96">
