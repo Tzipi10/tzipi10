@@ -274,7 +274,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
     <br>C++
   </td>
   <td align="center" width="96">
-    <img src="https://camo.githubusercontent.com/d35a1629940de977c889a8710227ca41e3068e9b4318f59994c9fa92fa37fd0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="C" width="65" height="65" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
     <br>C
   </td>
   <td align="center" width="96">
