@@ -286,7 +286,7 @@ Aspiring to continue developing in a challenging environment and contribute to i
   <br>Jupyter
  </td>
  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="AI" />
+    <img src="https://img.icons8.com/?size=160&id=q3s0XdZRq4Cj&format=png" width="50" height="50" alt="AI" />
     <br>openAI
  </td>
  <td align="center" width="96">
