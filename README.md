@@ -303,7 +303,13 @@ Aspiring to continue developing in a challenging environment and contribute to i
 
 ---
 ## **Contact Me**  
-<a href="mailto:tzipilevi1234@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
-&nbsp;  [TzipiLevi1234@gmail.com](mailto:tzipilevi1234@gmail.com)  
+<p>
+  <a href="mailto:tzipilevi1234@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="20"></a>
+  &nbsp;
+  <a href="mailto:tzipilevi1234@gmail.com">
+    TzipiLevi1234@gmail.com
+  </a>
+</p>
 
 ⭐ *Always eager to learn, collaborate, and build impactful products with clean, scalable code.*
