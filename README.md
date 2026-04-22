@@ -2,7 +2,7 @@
 
 **Full Stack Developer** with hands-on experience in building and maintaining **Web Applications**.  
 Proficient in **React**, **Angular**, **.NET Core**, and **Node.js**.  
-Currently working at **BPreven** startup as part of a professional **Agile** team, applying **SOLID principles** and writing modular, maintainable code.  
+Experienced at the **BPreven startup** in a professional **Agile** team, applying **SOLID principles** and writing modular, maintainable code.  
 Bringing creativity in problem-solving, fast learning ability, strong work ethic, and high motivation to grow and succeed.  
 Aspiring to continue developing in a challenging environment and contribute to innovative technological solutions.  
 
