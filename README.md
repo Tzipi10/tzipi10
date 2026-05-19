@@ -78,7 +78,6 @@ Aspiring to continue developing in a challenging environment and contribute to i
 - **Computer Systems & Architecture** (Operating Systems, Computer Organization, Digital Systems)
 - **Networking & Information Systems** (Networks, System Analysis, BI, Git, QA, Cybersecurity)
 - **AI & Machine Learning** (Fundamentals, AI Agents, Automation)
-
 ---
  <br>
 <div align="center">
