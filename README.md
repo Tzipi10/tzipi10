@@ -290,6 +290,10 @@ Aspiring to continue developing in a challenging environment and contribute to i
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50" height="50" alt="AI LLM" />
   <br>LLM
     </td>
+ <td align="center" width="96">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/75c4140a-ba57-44fb-9942-b09b86c1aa8e"/>
+  <br>QA
+ </td>
    </tr>
   </table>
  </div>
