@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tzipora Levi
 
-**Full Stack Developer & Team Leader** with hands-on experience in building and maintaining **Web Applications and integrating AI-based solutions**.  
+**Full Stack Developer & Team Lead** with hands-on experience in building and maintaining **Web Apps and integrating AI-based solutions**.  
 Proficient in **React**, **Angular**, **.NET Core**, and **Node.js**.  
 Experienced at the **BPreven startup** in a professional **Agile** team, applying **SOLID principles** and writing modular, maintainable code.  
 Bringing creativity in problem-solving, fast learning ability, strong work ethic, and high motivation to grow and succeed.  
