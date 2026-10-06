@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tzipora Levi
 
 **Full Stack Developer and Team Lead** with hands-on experience in web application
-development using **React** and **.NET Core** in a startup (BPreven). **Led AI and Cyber
+development using **React** and **.NET Core** in a startup BPreven. **Led AI and Cyber
 teams** in a professional, **Agile** development environment. Delivered e2e features,
 built **REST APIs** and wrote clean, modular code following **SOLID** principles. Quick
 learner with strong problem-solving skills, fast adaptation to new technologies, and
